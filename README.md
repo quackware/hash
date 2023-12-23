@@ -1,0 +1,3 @@
+# @quackware/hash
+
+Hashing Functionality
